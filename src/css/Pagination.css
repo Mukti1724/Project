@@ -1,0 +1,13 @@
+/* src/components/Pagination.css */
+.pagination {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: #f8f8f8;
+  }
+  
+  .pagination a {
+    text-decoration: none;
+    color: #000;
+    margin: 0 10px;
+  }
