@@ -1,6 +1,7 @@
 /* src/components/FeaturedProducts.css */
 .featured-products {
     padding: 20px;
+    width: 95%;
   }
   
   .featured-products h2 {
