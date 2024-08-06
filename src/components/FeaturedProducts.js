@@ -15,6 +15,10 @@ const FeaturedProducts = () => {
     { image: null, name: null }, // Placeholder for empty space
     { image: null, name: null }, // Placeholder for empty space
     { image: null, name: null }, // Placeholder for empty space
+    { image: null, name: null }, // Placeholder for empty space
+    { image: null, name: null }, // Placeholder for empty space
+    { image: null, name: null }, // Placeholder for empty space
+    { image: null, name: null }, // Placeholder for empty space
   ];
 
   return (
